@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+}
+body{
+    text-align: center;
+    
+}
+.bisey{
+    display: flex;
+    justify-content: space-between;
+    gap: 2px;
+    padding-top: 2px;
+    margin-left: 45px;
+    margin-right: 45px;
+    
+}
+#source{
+    background-color: #EEEEEE;
+    margin-left: 45px;
+    margin-right: 45px;
+    height: 55px;
+    padding: 18px;
+    
+    
+}
+#help{
+    background-color: #70CCC2;
+    padding: 15px;
+    width: 27%;
+   
+    
+}
+#lunix{
+    background-color: #62B3AA;
+    width: 37%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+   
+   
+    
+    
+    
+}
+span{
+    
+    margin-left: 45px;
+    
+   
+    
+}
+.footer{
+    background-color: #62B3AA;
+    width: 37%;
+    padding: 15px;
+    
+    
+
+}
